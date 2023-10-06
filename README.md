@@ -11,10 +11,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It allows use
 
 ## Demo
 
-![calculator]()
-
-## Live Demo
-link: [http://127.0.0.1:5500/CODSOFTJULY/Calculator_CODSOFT_Level1_Task3/Calculator.html]
+![calculator](https://github.com/Komalikajeetham/Codsoft/blob/main/codsoft%20calculator.zip)
 
 
 ## How to use
